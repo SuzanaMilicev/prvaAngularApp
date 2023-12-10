@@ -1,0 +1,2 @@
+# prvaAngularApp
+Prva Angular aplikacija
